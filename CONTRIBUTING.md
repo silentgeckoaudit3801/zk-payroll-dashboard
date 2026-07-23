@@ -59,3 +59,8 @@ Run them with `pnpm test:smoke`. CI runs these automatically on every push and P
 ## License
 
 MIT
+
+
+## Issue validation checklist
+
+Before opening a pull request, review the [issue validation checklist](docs/contributing/issue-validation-checklist.md) for dashboard UI, SDK utility, and contract docs/test expectations. It covers CI evidence, merge-conflict checks, screenshots, and privacy-safe validation notes.
