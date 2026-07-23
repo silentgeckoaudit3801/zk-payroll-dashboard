@@ -23,6 +23,8 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 ## Checklist:
 
+
+- [ ] I reviewed the [issue validation checklist](../docs/contributing/issue-validation-checklist.md) and included relevant CI, screenshot, merge-conflict, and privacy notes.
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
